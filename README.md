@@ -1,3 +1,13 @@
+## Submission NOTES 
+
+I have submitted this adjusted ReadMe file after the deadline to point out 
+to my assessors that I have made an error and posted the completed assignment 
+in files named PA1_Report.xxx  and not in PA1_Template.xxx as instructed.
+
+Hopefully, my assessors will make the necessary adjustments. 
+
+Thank you.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
